@@ -1,7 +1,6 @@
 | User | Entry |
 |-|-|
-| notyou#8789 | ![notyou#8789](1 Buy Eth on Crypto.com or Binance
-2 Set up Metamask wallet
+| notyou#8789 | ![notyou#8789](1 Buy Eth on Crypto.com or Binance; 2 Set up Metamask wallet
 3 Add Arb1 chain from chainlist.org
 4 Withdraw to Arbitrum
 5 Go to Uniswap
