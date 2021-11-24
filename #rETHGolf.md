@@ -1,7 +1,7 @@
 | User | Entry |
 |-|-|
 | notyou#8789 | ![notyou](https://user-images.githubusercontent.com/94983163/143287702-6eb07936-1ccb-4705-bafd-7204183d8b95.PNG)|
-| SB#3547 | ![SB](https://user-images.githubusercontent.com/94983163/143287678-ee243db8-16f0-4054-b072-f9dbe54a92f5.PNG)|
+| SB#3547 |![SEBv2](https://user-images.githubusercontent.com/94983163/143313536-4f63c3d0-38f9-4f20-b550-9b44e8d6572b.PNG) |
 | BrassLion#1925 |![Brasslionv2](https://user-images.githubusercontent.com/94983163/143310986-429b689f-c427-4fdb-81d8-627a67d5cfaf.PNG) |
 | CantSayIReallyTried#9127 |![cantisayv2](https://user-images.githubusercontent.com/94983163/143313306-1b703219-cae8-461a-bb4e-e016e9e966ba.PNG) |
 | antond#3755 | ![antondv2](https://user-images.githubusercontent.com/94983163/143313273-b0703b62-618e-43f2-8715-d82d37dca904.PNG) |
